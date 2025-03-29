@@ -125,16 +125,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QFqRmcgoc48EMrTDS77r-24" value="Evénéments aléatoires&lt;br&gt;Pour permettre aux joueurs de prendre du recul sur leurs decisions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="50" y="770" width="180" height="90" as="geometry" />
+          <mxGeometry x="-190" y="250" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="QFqRmcgoc48EMrTDS77r-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QFqRmcgoc48EMrTDS77r-25" target="QFqRmcgoc48EMrTDS77r-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QFqRmcgoc48EMrTDS77r-25" value="Réunion &quot;de crise&quot; ou une decision doit être prise a la fin de la reunion" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-20" y="930" width="120" height="60" as="geometry" />
+          <mxGeometry x="-160" y="395" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QFqRmcgoc48EMrTDS77r-28" value="Unanimité des joueurs / Vote ?&lt;br&gt;Un vote peu concerner une seule faction" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-25" y="1010" width="130" height="70" as="geometry" />
+          <mxGeometry x="-165" y="475" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QFqRmcgoc48EMrTDS77r-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QFqRmcgoc48EMrTDS77r-32" target="QFqRmcgoc48EMrTDS77r-37">
           <mxGeometry relative="1" as="geometry" />
