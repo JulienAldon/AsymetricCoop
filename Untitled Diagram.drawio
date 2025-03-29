@@ -141,6 +141,15 @@
         <mxCell id="QFqRmcgoc48EMrTDS77r-20" value="Déplacement sur les loot" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="220" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="QFqRmcgoc48EMrTDS77r-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QFqRmcgoc48EMrTDS77r-24" target="QFqRmcgoc48EMrTDS77r-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QFqRmcgoc48EMrTDS77r-24" value="Evénéments aléatoires&lt;br&gt;Pour permettre aux joueurs de prendre du recul sur leurs decisions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="770" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="QFqRmcgoc48EMrTDS77r-25" value="Réunion &quot;de crise&quot; ou une decision doit être prise a la fin de la reunion" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="910" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
