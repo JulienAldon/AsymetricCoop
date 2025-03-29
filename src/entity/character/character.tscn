@@ -1,0 +1,32 @@
+[gd_scene load_steps=5 format=3 uid="uid://c3l8iurok5b3h"]
+
+[ext_resource type="Script" path="res://src/entity/character/character.gd" id="1_50obq"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_nsbpj"]
+
+[sub_resource type="PlaceholderTexture2D" id="PlaceholderTexture2D_oipcg"]
+size = Vector2(16, 16)
+
+[sub_resource type="SceneReplicationConfig" id="SceneReplicationConfig_edvoo"]
+properties/0/path = NodePath(".:position")
+properties/0/spawn = true
+properties/0/replication_mode = 1
+
+[node name="Character" type="CharacterBody2D" node_paths=PackedStringArray("camera")]
+collision_layer = 4
+script = ExtResource("1_50obq")
+speed = 150
+camera = NodePath("Camera2D")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("CircleShape2D_nsbpj")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = SubResource("PlaceholderTexture2D_oipcg")
+
+[node name="Camera2D" type="Camera2D" parent="."]
+process_callback = 0
+position_smoothing_speed = 2.0
+
+[node name="MultiplayerSynchronizer" type="MultiplayerSynchronizer" parent="."]
+replication_config = SubResource("SceneReplicationConfig_edvoo")
