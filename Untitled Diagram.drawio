@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.1.3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1396" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1396" dy="2019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -43,26 +43,38 @@
         <mxCell id="c7uLgKNMIQA-5B7GpuEY-21" value="Dépollution via les effets des plantes" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="690" y="552.5" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QFqRmcgoc48EMrTDS77r-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="c7uLgKNMIQA-5B7GpuEY-22" target="QFqRmcgoc48EMrTDS77r-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="c7uLgKNMIQA-5B7GpuEY-22" value="Explorer" style="triangle;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="75" y="160" width="60" height="80" as="geometry" />
+          <mxGeometry x="90" y="120" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QFqRmcgoc48EMrTDS77r-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="c7uLgKNMIQA-5B7GpuEY-23" target="QFqRmcgoc48EMrTDS77r-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c7uLgKNMIQA-5B7GpuEY-23" value="Selectionner un set de sorts" style="triangle;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="5" y="160" width="60" height="80" as="geometry" />
+          <mxGeometry x="10" y="120" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QFqRmcgoc48EMrTDS77r-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="c7uLgKNMIQA-5B7GpuEY-24" target="QFqRmcgoc48EMrTDS77r-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c7uLgKNMIQA-5B7GpuEY-24" value="Utiliser les sorts" style="triangle;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="145" y="160" width="60" height="80" as="geometry" />
+          <mxGeometry x="170" y="120" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QFqRmcgoc48EMrTDS77r-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="c7uLgKNMIQA-5B7GpuEY-25" target="QFqRmcgoc48EMrTDS77r-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c7uLgKNMIQA-5B7GpuEY-25" value="Recolter les loots" style="triangle;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="215" y="160" width="60" height="80" as="geometry" />
+          <mxGeometry x="250" y="120" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="c7uLgKNMIQA-5B7GpuEY-26" value="&lt;div&gt;Placer les sources de production&lt;/div&gt;sur le terrain adapté" style="triangle;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="256" width="100" height="120" as="geometry" />
+          <mxGeometry x="320" width="72" height="90" as="geometry" />
         </mxCell>
         <mxCell id="c7uLgKNMIQA-5B7GpuEY-27" value="Acheminer la production vers les autres factions" style="triangle;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="366" width="90" height="120" as="geometry" />
+          <mxGeometry x="412.5" width="67.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="c7uLgKNMIQA-5B7GpuEY-28" value="Trouver des combos de batiments pour ameliorer la production" style="triangle;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="460" width="112" height="120" as="geometry" />
+          <mxGeometry x="500.5" y="5" width="72" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sBj8BA107kENnDJZsWmS-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="c7uLgKNMIQA-5B7GpuEY-16" target="c7uLgKNMIQA-5B7GpuEY-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -116,6 +128,18 @@
         </mxCell>
         <mxCell id="QFqRmcgoc48EMrTDS77r-12" value="Récolter" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="890" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QFqRmcgoc48EMrTDS77r-15" value="Choix des sorts" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QFqRmcgoc48EMrTDS77r-18" value="Déplacement" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QFqRmcgoc48EMrTDS77r-19" value="Lancer des sorts" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QFqRmcgoc48EMrTDS77r-20" value="Déplacement sur les loot" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="220" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
